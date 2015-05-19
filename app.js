@@ -65,7 +65,7 @@ var TodoList = React.createClass({
   getInitialState : function(){
     return { todos : [
               {name:"buy beer" , completed:false},
-              {name:"buy drugs" , completed:true}]
+              {name:"buy Soda" , completed:true}]
           };
   },
 
