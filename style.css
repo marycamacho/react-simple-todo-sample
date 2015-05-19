@@ -1,0 +1,21 @@
+body{
+  padding-top:50px;
+}
+.validation{
+  text-align: center;
+  margin-top:35px;
+}
+.glyphicon.glyphicon-ok{
+  float:left;
+}
+.glyphicon.glyphicon-remove{
+  float:right;
+  color:red;
+}
+.valid{color:green;}
+.strike{
+  text-decoration : line-through;
+}
+.glyphicon:hover{
+  cursor: pointer;
+}
